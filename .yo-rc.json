@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Tian hao",
+      "authorEmail": "tianhao7@foxmail.com",
+      "authorUrl": "https://github.com/lyrieek"
+    }
+  }
+}
